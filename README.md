@@ -1,5 +1,4 @@
 # hello-world
 just another repositore
-soy estudiante de informatica.
-estoy probando algo alucinante
+estoy probando algo alucinante.No encuetro lo que busco
 
